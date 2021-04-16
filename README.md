@@ -13,7 +13,7 @@ Link to soundcloud: https://soundcloud.com/malcela/composition-iii-tourmaline
 
 ![Alt text](https://github.com/malcela/crystal/blob/main/crystal_unclear_torumaline_10.jpg "Tourmaline")
 
-![Alt text](https://github.com/malcela/crystal/blob/main/crystal_unclear_torumaline_8.jpg.jpg "Tourmaline 2")
+![Alt text](https://github.com/malcela/crystal/blob/main/crystal_unclear_torumaline_8.jpg "Tourmaline")
 
 ![Alt text](https://github.com/malcela/crystal/blob/main/crystal_unclear_torumaline_process_1.jpg "process 1")
 
